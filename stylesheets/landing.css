@@ -94,7 +94,7 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD7QfoZvW512IyuBY3478DNO1ZBG2hOHK0z7aE15pn9KoE11Gw2A') no-repeat center;
+  background: url('http://i1075.photobucket.com/albums/w436/ebates3/fireworks_zpsmitdqwvq.jpg') no-repeat center;
   background-size: cover;
 }
 
@@ -104,3 +104,6 @@ footer{
 body{
     background-color:#41B2A3;
 } 
+.thumbnail{
+    background-color:#23FF60;
+}
